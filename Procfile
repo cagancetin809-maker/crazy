@@ -1,1 +1,1 @@
-worker: python crazy.py
+worker: py crazy.py
