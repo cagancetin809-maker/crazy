@@ -320,4 +320,5 @@ async def on_ready():
 # ==========================================
 #              RUN BOT
 # ==========================================
-bot.run("")   # ❗ TOKEN KESİNLİKLE DEĞİŞTİR
+bot.run("MTQ2ODYzOTQwNTU3NjI5MDMyNA.GKj3Yp.dlB9xIbo6IkoQF736am37n1LWq7A7kridiYaGc")   # ❗ TOKEN KESİNLİKLE DEĞİŞTİR
+
